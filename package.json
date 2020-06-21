@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "typescript": "^3.9.5"
+  },
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
